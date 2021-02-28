@@ -3,4 +3,5 @@ setup.py
 rndstr.egg-info/PKG-INFO
 rndstr.egg-info/SOURCES.txt
 rndstr.egg-info/dependency_links.txt
+rndstr.egg-info/entry_points.txt
 rndstr.egg-info/top_level.txt
